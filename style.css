@@ -728,6 +728,9 @@
          .type1{
              padding: 20px;
          }
+         .type1 button{
+            margin-top: 30px;
+         }
          .type2{
              padding: 20px;
          }
@@ -735,7 +738,7 @@
             font-size: 30px;
          }
 }
-@media ( max-width:338px){
+@media ( max-width:438px){
         .column-box{
             width: 100px;
         }
