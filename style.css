@@ -186,8 +186,10 @@
           .big-poster{
             background-color: yellow;
             height: 60vh;
-          }
-          .small-poster{
+            border-radius: 20px;
+        }
+        .small-poster{
+            border-radius: 20px;
             background-color: yellow;
             width: 50%;
             height: 60vh;
